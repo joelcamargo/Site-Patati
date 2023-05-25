@@ -6,3 +6,9 @@ body{
 .cabeçalho-img{
   width: 8%;
 }
+.cabeçalho{
+  background-color: rebeccapurple;
+  color: red;
+}
+
+
